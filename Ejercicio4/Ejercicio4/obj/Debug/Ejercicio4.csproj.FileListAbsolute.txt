@@ -1,0 +1,6 @@
+C:\Users\lucho\Desktop\Visual Studio\C#\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+C:\Users\lucho\Desktop\Visual Studio\C#\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe
+C:\Users\lucho\Desktop\Visual Studio\C#\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.pdb
+C:\Users\lucho\Desktop\Visual Studio\C#\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csprojResolveAssemblyReference.cache
+C:\Users\lucho\Desktop\Visual Studio\C#\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.exe
+C:\Users\lucho\Desktop\Visual Studio\C#\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.pdb
